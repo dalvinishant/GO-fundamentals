@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+type custom_map map[string]string
+
 func main() {
 
 	// Maps in GO are similar to dict in python
